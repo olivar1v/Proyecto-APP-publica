@@ -1,0 +1,5 @@
+/env
+/scr/apis/__pycache__
+/scr/config/__pycache__
+/scr/model/__pycache__
+datos.ipynb
